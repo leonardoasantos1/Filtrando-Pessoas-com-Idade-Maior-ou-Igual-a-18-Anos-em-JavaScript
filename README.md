@@ -1,4 +1,4 @@
-# Objetivo
+<h2>Objetivo</h2>
 
 <p>
   Este código tem como objetivo demonstrar o uso de arrays, objetos, e o método filter() em JavaScript para filtrar objetos com base em critérios específicos.
